@@ -4,6 +4,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a CTO at http://swooapp.com/
 - I am writing a blog [https://medium.com/@nashanin](https://medium.com/@nvashanin)
+- [Linkedin](https://linkedin.com/in/nikolay-ashanin-7bb3a57a)
 
 ## Blogs
 
